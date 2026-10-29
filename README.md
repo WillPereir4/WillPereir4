@@ -10,16 +10,14 @@ Olá! Me chamo William, tenho 43 anos e moro em Taguatinga - DF. Sou formado em 
  
 #
 
-<img align="right" alt="" height="190px" src="./src/edgerunners.gif">
+<img align="right" alt="" height="190px" src="./src/20-06-34-693_512.gif">
 
-## 🌐 Conecte-se Comigo
+<h2 align="left">🌐 Conecte-se Comigo</h2>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:paulorobertodequeirozjr@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/paulopontodev/)
 
-
-
-## 🛠️ Tecnologias e Ferramentas
+<h2 align="left">🛠️ Tecnologias e Ferramentas</h2>
 
 <img 
     align="left" 
