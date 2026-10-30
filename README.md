@@ -35,9 +35,9 @@ Olá! Me chamo William, tenho 43 anos e moro em Taguatinga - DF. Sou formado em 
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="210" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=WillPereir4&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=WillPereir4&hide_rank=true&show_icons=true&locale=en&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
   />
 
 <img 
